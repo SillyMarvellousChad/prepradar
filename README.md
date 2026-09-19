@@ -49,7 +49,7 @@ search is the primary data source, not an add-on.
 - Python
 - Streamlit (UI)
 - SerpApi (`google-search-results` package) — search
-- Groq API (Llama 3.3 70B) — summarization and ranking, free tier
+- Groq API (`openai/gpt-oss-120b`) — summarization and ranking, free tier
 
 ## Project structure
 
