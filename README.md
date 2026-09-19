@@ -55,9 +55,10 @@ search is the primary data source, not an add-on.
 
 ```
 prepradar/
-├── app.py            # Streamlit UI
-├── serp_search.py    # SerpApi search calls
-├── summarizer.py      # Groq-based summarization/ranking
+├── app.py                    # Streamlit UI
+├── serp_search.py            # SerpApi search calls
+├── summarizer.py             # Groq-based summarization/ranking
+├── .streamlit/config.toml    # Dark theme
 ├── requirements.txt
 ├── .env.example
 └── README.md
